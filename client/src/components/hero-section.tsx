@@ -31,6 +31,7 @@ export default function HeroSection() {
               speed={100}
             />
           </div>
+          
           <p className="text-lg text-slate-400 mb-12 max-w-2xl mx-auto">
             6+ years of experience building innovative ERP solutions, integrations, and full-stack applications. 
             Specialized in Python, Odoo, and modern web technologies.
