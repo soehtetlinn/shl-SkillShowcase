@@ -46,6 +46,17 @@ export default function ExperienceSection() {
         'Data Migration & Performance Optimization'
       ],
       color: 'bg-blue-500'
+    },
+    {
+      period: 'May 2018 - August 2018',
+      title: 'Software Developer Intern',
+      company: 'Frontiir Co., Ltd - Yangon',
+      responsibilities: [
+        'Research of RDBMS and NoSQL such as Hadoop, Hbase, Spark',
+        'Backend Development with Flask',
+        'Learn to Build a Web Application with Software fom the ground up'
+      ],
+      color: 'bg-blue-500'
     }
   ];
 
