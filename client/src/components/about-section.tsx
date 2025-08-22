@@ -2,7 +2,7 @@ import { Mountain, Film, Bike, Dumbbell } from 'lucide-react';
 
 export default function AboutSection() {
   const stats = [
-    { number: '6+', label: 'Years Experience' },
+    { number: '5+', label: 'Years Experience' },
     { number: '50+', label: 'Projects Completed' },
     { number: '10+', label: 'Technologies' },
     { number: '3', label: 'Countries' },

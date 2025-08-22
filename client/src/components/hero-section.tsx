@@ -33,7 +33,7 @@ export default function HeroSection() {
           </div>
           
           <p className="text-lg text-slate-400 mb-12 max-w-2xl mx-auto">
-            6+ years of experience building innovative ERP solutions, integrations, and full-stack applications. 
+            5+ years of experience building innovative ERP solutions, integrations, and full-stack applications. 
             Specialized in Python, Odoo, and modern web technologies.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
